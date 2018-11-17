@@ -34,42 +34,42 @@ class HomeIndex extends React.Component {
                                 <h3>Desarrollo Web</h3>
                                 <p>Sitios Web a la Medida</p>
                             </header>
-                            <Link to="#" className="link primary"></Link>
+                            <Link to="/landing#webdev" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
                                 <h3>Diseño Web</h3>
-                                <p>Si tienes una idea, la podemos concretar</p>
+                                <p>Si tienes una idea, la puedo concretar</p>
                             </header>
-                            <Link to="#" className="link primary"></Link>
+                            <Link to="/landing#webdis" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
                                 <h3>Landing Page</h3>
                                 <p>Algo sencillo para tu empresa</p>
                             </header>
-                            <Link to="#" className="link primary"></Link>
+                            <Link to="/landing#landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
                                 <h3>Portafolios</h3>
                                 <p>Muestra tus productos o servicios al mundo</p>
                             </header>
-                            <Link to="#" className="link primary"></Link>
+                            <Link to="/landing#portfolio" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
                                 <h3>Tienda ECommerce</h3>
                                 <p>Quieres vender tus productos!</p>
                             </header>
-                            <Link to="#" className="link primary"></Link>
+                            <Link to="/landing#ecommerce" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
                                 <h3>SEO</h3>
-                                <p>Posicionate en las Web</p>
+                                <p>Posicionate en la Web</p>
                             </header>
-                            <Link to="#" className="link primary"></Link>
+                            <Link to="/landing#seo" className="link primary"></Link>
                         </article>
                     </section>
                     <section id="two">
@@ -77,9 +77,9 @@ class HomeIndex extends React.Component {
                             <header className="major">
                                 <h2>Sobre Mi</h2>
                             </header>
-                            <p>Soy Ingeniero de profesión, pero desde hace un tiempo que me dedico al desarrollo web, y ya es tiempo de poner mis talentos a tu servicio. Soy apasionado por lo que hago, me encanta aprender y estudiar nuevas tecnologías, y hoy pongo lo que he aprendido al servicio de los que necesiten</p>
+                            <p>Soy Ingeniero de profesión, pero estoy convencido que la Programación es mi pasión, y hoy la estoy encaminando hacia el Desarrollo Web. Con el tiempo me he hecho proficiente en distintos lenguajes, tales como HTML5, CSS3, Javascript, y en frameworks como React. Por lo que si quieres desarrollar tus ideas y ponerlas en la Web, puedes contar con mi ayuda, juntos podemos llevar tu negocio a un nuevo nivel. </p>
                             <ul className="actions">
-                                <li><Link to="#" className="button next">Get Started</Link></li>
+                                <li><Link to="/personal" className="button next">Sobre Mi &rarr;</Link></li>
                             </ul>
                         </div>
                     </section>

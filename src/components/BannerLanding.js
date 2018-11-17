@@ -4,11 +4,11 @@ const BannerLanding = (props) => (
     <section id="banner" className="style2">
         <div className="inner">
             <header className="major">
-                <h1>Landing Page</h1>
+                <h1>Servicios</h1>
             </header>
             <div className="content">
-                <p>Este es un modelo de Langing Page<br />
-                se puede usar en tu sitio o diseñar una personalizada</p>
+                <p>Me puedo adaptar a tus requerimientos<br />
+                mi objetivo es poder entregar un producto que cumpla con tus espectativas</p>
             </div>
         </div>
     </section>
