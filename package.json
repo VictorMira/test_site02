@@ -27,6 +27,8 @@
     "deploy": "gatsby build && gh-pages -d public"
   },
   "devDependencies": {
+    "gatsby-source-filesystem": "^2.0.8",
+    "gatsby-transformer-remark": "^2.1.12",
     "gh-pages": "^2.0.1",
     "prettier": "^1.14.2"
   },

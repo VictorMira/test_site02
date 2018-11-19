@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Victor Mira - Landing Page",
     author: "Victor Mira",
-    description: "Sitio Basado en Gatsgy V2.0"
+    description: "Mi sitio personal, portafolio y blog personal",
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -39,7 +39,16 @@ module.exports = {
         siteSpeedSampleRate: 10,
         cookieDomain: "example.com",
       }
-    }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `pages`,
+        path: `${__dirname}/src/pages/`,
+      }
+    },
+    'gatsby-transformer-remark',
+    //take a data format and transformit in a query for graphql 
   ]
-}
+};
 
