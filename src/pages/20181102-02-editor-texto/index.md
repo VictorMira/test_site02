@@ -1,6 +1,8 @@
 ---
 path: '/02-editor-texto'
 title: 'El Editor de Texto'
+published: true
+date: 2018 - 11 - 02
 ---
 
 Para mí el programar es como un oficio, como el de un artesano, y me he dado cuenta con el paso del tiempo, que el aprender código no es más que aprender a tallar la madera, o a tejer la lana o a pintar la tela. Es la expresión de la creatividad, la que a través de nuestras manos, transforma ideas y conceptos en aplicaciones o sitios web, que reflejan nuestros deseos de expresarnos, de dejar huella o el de las personas o empresas para las que trabajamos y prestamos nuestros servicios.

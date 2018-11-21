@@ -1,6 +1,8 @@
 ---
 path: '/01-dev-40'
 title: 'Devéloper a los 40'
+published: true
+date: 2018 - 11 - 01
 ---
 
 Mi nombre es Victor, tengo 41 años y hace poco más de un año, decidí transformarme en un Desarrollador Web.
